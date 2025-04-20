@@ -48,9 +48,3 @@ while(True):
             else:
                 print(f' \n\n finally you win \n your point is {you}\n')
             break
-
-            
-        
-
-
-        
